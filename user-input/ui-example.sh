@@ -1,3 +1,4 @@
+#kristi was here first
 echo "what is your name?"
 read name
 echo "Hello $name."
