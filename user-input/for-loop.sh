@@ -10,3 +10,4 @@ for i in $(seq 1 $value);
 do echo ${cards[random%${#cards[@]}]};
 
 done
+#for loop iterates over value given by user
