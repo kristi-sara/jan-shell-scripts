@@ -12,3 +12,5 @@ do echo ${cards[random%${#cards[@]}]};
 done
 #for loop iterates over value given by user
 #kristi made a change for susan to see
+
+#Susan is adding this message:  Arghghghg!!!!!!
