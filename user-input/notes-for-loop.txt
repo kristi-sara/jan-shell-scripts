@@ -1,1 +1,3 @@
 For loops start with 'for' and ends with 'done'
+
+#kristi making a note for collaboration example
